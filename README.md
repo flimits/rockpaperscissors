@@ -38,8 +38,8 @@ This was a fun little project and helped me to get to under stand the use of fun
 ## Where to find this code and website
 | Links to Code        | Resource URL           |
 | ------------- |:-------------:|
-| Portfolio Website    | [https://flimits.github.io/my-portfolio/](https://flimits.github.io/my-portfolio/) |
-| GitHub Repo | [https://github.com/flimits/my-portfolio](https://github.com/flimits/my-portfolio)     |
+| RockPaperScissor site    | [https://flimits.github.io/rockpaperscissors/](https://flimits.github.io/rockpaperscissors/) |
+| GitHub Repo | [https://github.com/flimits/my-portfolio](https://github.com/flimits/rockpaperscissors)     |
 
 ## Some Technologies Relyed upon to complete this task
 | Technology Used         | Resource URL           |
