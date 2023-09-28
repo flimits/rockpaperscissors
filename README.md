@@ -39,7 +39,7 @@ This was a fun little project and helped me to get to under stand the use of fun
 | Links to Code        | Resource URL           |
 | ------------- |:-------------:|
 | RockPaperScissor site    | [https://flimits.github.io/rockpaperscissors/](https://flimits.github.io/rockpaperscissors/) |
-| GitHub Repo | [https://github.com/flimits/my-portfolio](https://github.com/flimits/rockpaperscissors)     |
+| GitHub Repo | [https://github.com/flimits/rockpaperscissors](https://github.com/flimits/rockpaperscissors)     |
 
 ## Some Technologies Relyed upon to complete this task
 | Technology Used         | Resource URL           |
